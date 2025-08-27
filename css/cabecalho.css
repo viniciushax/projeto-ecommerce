@@ -106,6 +106,10 @@
         flex-direction: row;
 
     }
+
+    .menu-hamburguer {
+        display: none;
+    }
 }
 
 @media(min-width: 1170px) {
